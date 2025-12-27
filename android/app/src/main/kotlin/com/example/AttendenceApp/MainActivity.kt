@@ -1,4 +1,4 @@
-package com.example.labtaskapp
+package com.example.AttendenceApp
 
 import io.flutter.embedding.android.FlutterActivity
 
